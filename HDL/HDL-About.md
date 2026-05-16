@@ -1,4 +1,4 @@
-# About
+# HDL Implementation
 
 The folder "EE4218 Project HDL" contains the Vivado code we used to create the component, while the folder "EE4218 HDL Test Code" contains the C++ code run in Vitis to test the functionality of the board.
 Timer files not included, but they can be found elsewhere online.
