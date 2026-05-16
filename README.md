@@ -8,3 +8,4 @@ In this project we implemented a simple MLP through software, Hardware Descripti
 We used Realterm to send data and receive messages from the board.<br/>
 
 This page was made to serve as reference for future students, should the course project remain similar. If you directly copy any code, remember to reference it properly.
+ * I do not expect the project to change too drastically, as there are resources online for this project that are 3 years old as of writing.
