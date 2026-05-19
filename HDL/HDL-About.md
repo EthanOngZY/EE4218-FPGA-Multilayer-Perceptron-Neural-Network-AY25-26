@@ -10,3 +10,15 @@ This is not a very well optimised code, since we were busy with other courses. S
 
 Other notes:
   1) The inputs are given in hexdecimal, which is different from the other implementations where we give the inputs in decimal.
+
+## Files
+tb_myip_v1_0.v: testbench
+myip_v1_0_ethan.v: main/top module
+hidden.v: hidden layer matrix mult
+sigmoid.v: sigmoid LUT and activation function layer
+output.v: output layer matrix mult
+memory_RAM.v: RAM
+
+test_input.mem: input array
+test_result_expected.mem: expected outputs
+
