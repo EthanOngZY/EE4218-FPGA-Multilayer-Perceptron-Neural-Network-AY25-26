@@ -15,15 +15,15 @@ Other notes:
 
 tb_myip_v1_0.v: testbench.
 
-  myip_v1_0_ethan.v: main/top module.
+  - myip_v1_0_ethan.v: main/top module.
 
-    hidden.v: hidden layer matrix mult.
+    - hidden.v: hidden layer matrix mult.
 
-    sigmoid.v: sigmoid LUT and activation function layer.
+    - sigmoid.v: sigmoid LUT and activation function layer.
 
-    output.v: output layer matrix mult.
+    - output.v: output layer matrix mult.
 
-    memory_RAM.v: RAM.
+    - memory_RAM.v: RAM.
 
 test_input.mem: input array.
 
