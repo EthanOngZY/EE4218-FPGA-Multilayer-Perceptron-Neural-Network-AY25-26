@@ -13,6 +13,7 @@ Other notes:
 
 ## Files
 
+### Vivado Stuff
 tb_myip_v1_0.v: testbench.
 
   - myip_v1_0_ethan.v: main/top module.
@@ -24,10 +25,13 @@ tb_myip_v1_0.v: testbench.
     - output.v: output layer matrix mult.
 
     - memory_RAM.v: RAM.
-  
+
+EE4218_HDL_wrapper.xsa: wrapper created with HDL component.
+
+### Vivado Test Data
 test_input.mem: input array.
 
 test_result_expected.mem: expected outputs
 
-EE4218_HDL_wrapper.xsa: wrapper created with HDL component.
-
+### Vitis Code
+helloworld.c: main code; edited off helloworld example.
