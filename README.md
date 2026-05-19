@@ -5,7 +5,7 @@ In this project we implemented a simple MLP through software, Hardware Descripti
   * In order of cycles taken, software took the most (~7840), followed by HDL (~5800), and lastly HLS (~1440).
   * With the inputs and weights we used, we expect one error (at entry 9) from our expected results.
 
-We used Realterm to send data and receive messages from the board.<br/>
+We used Realterm to send data and receive messages from the board, though you may also use MobaXTerm.
 
 This page was made to serve as reference for future students, should the course project remain similar. If you directly copy any code, remember to reference it properly.
  * I do not expect the project to change too drastically, as there are resources online for this project that are 3 years old as of writing.
