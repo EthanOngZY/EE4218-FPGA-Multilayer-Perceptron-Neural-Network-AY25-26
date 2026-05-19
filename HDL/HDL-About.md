@@ -24,11 +24,10 @@ tb_myip_v1_0.v: testbench.
     - output.v: output layer matrix mult.
 
     - memory_RAM.v: RAM.
-
+  
 test_input.mem: input array.
 
-test_result_expected.mem: expected outputs.
+test_result_expected.mem: expected outputs
 
-EE4218_HDL_wrapper.xsa: wrapper created with HDL component
-  - uses AXI DMA
+EE4218_HDL_wrapper.xsa: wrapper created with HDL component.
 
