@@ -30,4 +30,5 @@ test_input.mem: input array.
 test_result_expected.mem: expected outputs.
 
 EE4218_HDL_wrapper.xsa: wrapper created with HDL component
+  - uses AXI DMA
 
