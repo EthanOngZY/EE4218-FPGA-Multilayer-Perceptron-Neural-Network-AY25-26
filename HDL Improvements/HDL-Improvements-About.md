@@ -12,5 +12,7 @@ Hidden and Sigmoid Merged: merges the previously separate hidden.v and sigmoid.v
 
 ## Time taken
 Original: 502625 ns
+
 hidden_merged_states.v: 349025 ns
+
 Hidden and Sigmoid Merged: 310225 ns
