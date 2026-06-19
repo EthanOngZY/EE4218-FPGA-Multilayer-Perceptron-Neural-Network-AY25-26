@@ -2,7 +2,7 @@
 
 Some simple improvements made to the original files my group submitted for the project. I am unable to check the functionality of these code on the actual board, since I do not have access to the board as of writing. Hence, I am checking the optimisation via simulation in Vivado. 
 
-TBA on confirmation of result consistency between submitted code and these code.
+I am not going to check the correctness of intermediate results, but the final outputs are as expected.
 
 ## Version Differences
 
